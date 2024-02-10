@@ -1,0 +1,151 @@
+.navbar{
+	display: flex;
+	align-items: center;
+	padding	: 20px;
+	color: #ffffff;
+	font-weight: bold;
+
+}
+nav{
+	flex: 1;
+	text-align: right;
+}
+.headline{
+	font-size: 32px;
+	padding: 30px;
+}
+.headline img{
+	height: 380px;
+}
+nav ul{
+	display:inline-block;
+	list-style-type: none;
+}
+nav li{
+	display: inline-block;
+	margin-right: 30px;
+	color: rgb(0, 0, 0);
+}
+ul, li {
+   list-style:none      
+ }
+ .container #header{
+	max-width: 1300px;
+	margin: auto;
+	padding-left: 30px;
+	padding-right: 25px;
+	padding-bottom: 100px;
+}
+.container #headtext p{
+	font-size: 15px;
+}
+#logo{	
+	height: 150px;
+	width: 150px;
+	border: #ffffff;
+	border-radius: 10px;
+}
+.header{
+	background-color: rgb(0, 0, 0);
+}
+
+li a{
+	text-decoration: none;
+	color: rgb(255, 255, 255);
+	box-sizing: border-box;
+	font-weight: bold;
+	border: #ffffff;
+	border-style: solid;
+	border-width: 1px;
+	padding: 15px;	
+}
+
+#headlinetext p{
+	font-size: 12;
+}
+.latest_news{
+	margin: 50px;
+}
+.footer{
+	background:#000;
+	color: #F5FFFA;
+	font-size: 14px;
+	padding: 60px 0 20px;
+	margin: auto;
+}
+.col-3{
+	font-weight: bold;
+	font-size: 17px;
+}
+.col-12{
+}
+
+.col-4 .card-header #second h1{
+	margin: 50px;
+}
+#second h1{
+	color: red;
+}
+#testing {
+	height: 420px;
+	width: 300px;
+}
+.footer .row{
+	display: flex;
+	align-items: center;
+	flex-wrap: wrap;
+	justify-content: space-around;
+}
+
+#logo {
+	height: 100px;
+	width: 100px;
+}
+
+#test1{
+	background-color: red;
+}
+#test2{
+	background-color: rgb(0, 0, 0);
+	text-align: center;
+	color: #ffffff;
+	border: #ffffff;
+	border-style: double;
+	border-width: 10px;
+	padding: 15px;
+}
+
+#test2 img{
+	margin-left: auto;
+	margin-right: auto;
+	display:block;
+	height: 400px;
+	
+}
+#test3{
+	color: #ffffff;
+	background-color: rgb(0, 0, 0);
+	text-align: center;
+	border: #ffffff;
+	border-style: double;
+	border-width: 10px;
+	padding: 15px;
+}
+#test4{
+	color: #ffffff;
+	background: rgb(0, 0, 0);
+	text-align: center;
+	border: #ffffff;
+	border-style: double;
+	border-width: 10px;
+	padding: 15px;
+}
+#small_news img{
+	margin-left: auto;
+	margin-right: auto;
+	display:block;
+	height: 100px;
+}
+#small_news h1,p{
+	text-align: center;
+}
