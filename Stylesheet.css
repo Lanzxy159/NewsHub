@@ -42,6 +42,20 @@ ul, li {
 .container #headtext p{
 	font-size: 15px;
 }
+
+.container #test2 img{
+	height: 500px;
+
+}
+
+
+.container #test2 {
+	font-weight: bold;
+
+}
+
+
+
 #logo{	
 	height: 100px;
 	width: 100px;
@@ -68,15 +82,25 @@ li a{
 .latest_news{
 	margin: 50px;
 }
+
+
+.latest_news #test2 img{
+	height: 290px;
+	width: 500px;
+}
+
 #Latest_Merchandise{
 	padding-top: 50px;
 }
+
+
 .footer{
 	background:#000;
 	color: #F5FFFA;
 	font-size: 14px;
 	padding: 60px 0 20px;
 	margin: auto;
+	position: static;
 	
 }
 .col-3{
@@ -92,6 +116,7 @@ li a{
 #second h1{
 	color: red;
 }
+
 #testing {
 	height: 420px;
 	width: 300px;
@@ -154,4 +179,11 @@ li a{
 .Journalists{
 	padding-top: 100px;
 	padding-bottom: 100px;
+}
+.Merch img{
+	height: 200px;
+
+}
+.Merch{
+	padding-bottom: 50px;
 }
